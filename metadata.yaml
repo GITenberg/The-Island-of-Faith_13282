@@ -1,0 +1,31 @@
+_repo: The-Island-of-Faith_13282
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sangster, Margaret E. (Margaret Elizabeth)
+    birthdate: 1894
+    deathdate: 1981
+    gutenberg_agent_id: '933'
+    url: http://www.gutenberg.org/2009/agents/933
+description: Cover -- Contents.
+gutenberg_issued: '2004-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13282'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tenement houses -- Fiction'
+- !lcsh 'Social settlements -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Poor -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcc 'PS'
+title: The Island of Faith
+url: http://www.gutenberg.org/ebooks/13282
